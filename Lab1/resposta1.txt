@@ -8,6 +8,6 @@ Questão 1
     Explique a importância do surgimento do HTML e da World Wide Web no contexto da evolução da internet. 
     Como essas tecnologias mudaram a forma como a informação é compartilhada globalmente?
 
-O Word Wide Web surgiu na década de 90 como uma maneira de facilitar o compartilhamento de informação de pesquisa de uma forma mais eficiente e globalizada. Atrelado ao WWW surgiu o HTML, uma linguagem de marcação que facilita a organização da página com base nos princípios de interligação de documentos por hipertexto feita pelo WWW.
+A World Wide Web surgiu na década de 1990 como uma forma de facilitar o compartilhamento de informações de pesquisa de maneira mais eficiente e globalizada. Junto com a WWW, surgiu o HTML, uma linguagem de marcação que organiza as páginas web com base nos princípios de interligação de documentos por hipertexto, que é a característica fundamental da Web.
 
-O surgimento dessas tecnologias possibilitou que os usuários tivessem acesso com mais facilidade as informações, bem como
+O surgimento dessas tecnologias possibilitou que os usuários tivessem acesso às informações com mais facilidade, permitindo a navegação rápida entre conteúdos. Além disso, ampliou o acesso à informação e facilitou a comunicação entre as pessoas em escala global.

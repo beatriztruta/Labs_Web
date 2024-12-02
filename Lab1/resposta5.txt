@@ -7,3 +7,5 @@ Questão 5
 
     Considere o cenário em que você está trabalhando em um projeto de site com sua dupla. 
     Qual seria sua abordagem inicial para organizar as tarefas, escolher ferramentas e implementar boas práticas de versionamento e desenvolvimento?
+
+Primeiro, faria a divisão das tarefas com minha dupla e criaria um cronograma para organizarmos o trabalho. Depois, escolheríamos as ferramentas que ambos conhecemos ou que são mais adequadas para o projeto e definiríamos o GitHub para o versionamento do código. Criaríamos branches para cada funcionalidade e faríamos pull requests para revisar o código. Também manteríamos uma boa documentação e escreveríamos testes para garantir que tudo funcione direito. Por fim, manteríamos uma comunicação constante para garantir que todos os objetivos e prazos fossem cumpridos.

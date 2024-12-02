@@ -6,3 +6,13 @@ Princípios do desenvolvimento web - Laboratório 1
 Questão 2
 
     Cite três ferramentas ou tecnologias amplamente usadas no desenvolvimento web e explique como elas ajudam no processo de criação de aplicações web.
+
+Quando falamos de web, a primeira coisa que vem à mente é a tríade: HTML, CSS e JavaScript.
+
+O HTML é uma linguagem de marcação responsável por definir os elementos essenciais de uma página, como cabeçalhos, parágrafos, links, imagens e formulários.
+
+O CSS cuida da parte visual, estilizando a apresentação das páginas web, controlando o layout, as cores, as fontes e o design geral da aplicação.
+
+O JavaScript é uma linguagem de programação que torna as páginas web interativas, permitindo que os elementos da página respondam a ações do usuário, como cliques, movimentação do mouse ou entradas em formulários.
+
+Essas três tecnologias, juntas, tornam os sites mais bonitos, rápidos, funcionais e são a base do desenvolvimento web, sendo essenciais para a criação de sites modernos.
