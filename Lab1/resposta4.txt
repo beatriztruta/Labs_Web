@@ -1,0 +1,11 @@
+Aluna: Ana Beatriz da Silva Truta
+Matrícula: 122210220
+
+Princípios do desenvolvimento web - Laboratório 1
+
+Questão 4
+
+    Explique o papel do JavaScript no desenvolvimento web moderno.
+    Por que ele é considerado uma linguagem essencial para a criação de sites interativos?
+
+O JavaScript desempenha um papel fundamental, pois vem para melhorar e potencializar as funcionalidades do HTML. Ele é considerado essencial, pois é a única linguagem que pode ser executada diretamente no navegador para interagir com a estrutura da página.
