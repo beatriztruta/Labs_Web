@@ -4,3 +4,6 @@ Matrícula: 122210220
 Princípios do desenvolvimento web - Laboratório 1
 
 Questão 4
+
+    Explique o papel do JavaScript no desenvolvimento web moderno.
+    Por que ele é considerado uma linguagem essencial para a criação de sites interativos?

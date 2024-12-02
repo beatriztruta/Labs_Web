@@ -4,3 +4,10 @@ Matrícula: 122210220
 Princípios do desenvolvimento web - Laboratório 1
 
 Questão 1
+
+    Explique a importância do surgimento do HTML e da World Wide Web no contexto da evolução da internet. 
+    Como essas tecnologias mudaram a forma como a informação é compartilhada globalmente?
+
+O Word Wide Web surgiu na década de 90 como uma maneira de facilitar o compartilhamento de informação de pesquisa de uma forma mais eficiente e globalizada. Atrelado ao WWW surgiu o HTML, uma linguagem de marcação que facilita a organização da página com base nos princípios de interligação de documentos por hipertexto feita pelo WWW.
+
+O surgimento dessas tecnologias possibilitou que os usuários tivessem acesso com mais facilidade as informações, bem como

@@ -4,3 +4,5 @@ Matrícula: 122210220
 Princípios do desenvolvimento web - Laboratório 1
 
 Questão 2
+
+    Cite três ferramentas ou tecnologias amplamente usadas no desenvolvimento web e explique como elas ajudam no processo de criação de aplicações web.
